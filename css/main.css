@@ -1,0 +1,27 @@
+body {
+	background-color: #e5ddec;
+	font-family: 'Abril Fatface', cursive;
+}
+
+.gabi-card {
+	background-color: beige;
+	margin: 5px;
+}
+
+.card {
+	background-color: #e7aaaa;
+}
+
+.jumbotron {
+	background-image: url('https://thumbs.gfycat.com/TimelyWholeConure-small.gif');
+	height: 1000px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	padding-bottom: 80px;
+	padding-top: 100px;
+}
+
+.footer-middle {
+	margin: auto;
+}
