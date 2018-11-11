@@ -1,11 +1,7 @@
 body {
 	background-color: #e5ddec;
 	font-family: 'Abril Fatface', cursive;
-}
-
-.gabi-card {
-	background-color: beige;
-	margin: 5px;
+	margin-bottom: 50px;
 }
 
 .card {
@@ -38,4 +34,15 @@ body {
 
 .carousel-caption {
 	padding-bottom: 400px;
+}
+
+.fixed-bottom {
+	height: 25px;
+}
+.nav-link {
+	color: black;
+}
+
+.data-spy {
+	width: 100px
 }
